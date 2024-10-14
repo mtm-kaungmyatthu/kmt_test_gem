@@ -16,7 +16,7 @@ Gem::Specification.new do |spec|
 
   spec.metadata["allowed_push_host"] = "https://rubygems.org"
 
-  spec.metadata["homepage_uri"] = spec.homepage
+  spec.metadata["homepage_uri"] = "https://github.com/mtm-kaungmyatthu/kmt_test_gem.git"
   spec.metadata["source_code_uri"] = "https://github.com/mtm-kaungmyatthu/kmt_test_gem.git"
   spec.metadata["changelog_uri"] = "https://github.com/mtm-kaungmyatthu/kmt_test_gem/blob/master/CHANGELOG.md"
 
