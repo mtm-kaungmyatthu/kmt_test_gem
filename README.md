@@ -22,7 +22,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+This is a log which display "Hello, This is a Test Gem by KMT!"
+```ruby
+    KmtTestGem.greet
+```
 
 ## Development
 
